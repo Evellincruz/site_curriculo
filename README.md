@@ -1,3 +1,2 @@
 # site_curriculo
-Site_Currículo 
-Esse site tem como objetivo realizar curriculos.
+Aplicação ultilizando recursos de tabela para construção de página de curriculo
